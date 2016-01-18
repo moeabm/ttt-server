@@ -1,0 +1,19 @@
+{
+  "name": "ttt-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeabm/ttt-server.git"
+  },
+  "author": "Andrew Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moeabm/ttt-server/issues"
+  },
+  "homepage": "https://github.com/moeabm/ttt-server#readme"
+}
